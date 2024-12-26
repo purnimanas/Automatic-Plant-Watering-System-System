@@ -1,4 +1,4 @@
-# Automatic-Plant-Watering-System-System
+ Automatic-Plant-Watering-System-System
 This project is an Automatic Plant Watering System that uses an Arduino, a soil moisture sensor, and a relay module to automate the watering process for plants. It monitors the soil moisture levels, controls a motor (water pump) based on the moisture readings, and displays the status on an LCD screen. The system will turn the motor on or off depending on whether the soil is dry, humid, or wet.
 
 Components Used:
